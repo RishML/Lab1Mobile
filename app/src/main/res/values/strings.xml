@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Student Card</string>
+    <string name="full_name">Marina Maksimova</string>
+    <string name="course">student, Group Б23-191-1з</string>
+    <string name="email">marmaksleo@mail.ru</string>
+    <string name="phone">+7 (951) 192-00-18</string>
+</resources>

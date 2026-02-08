@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Визитка</string>
+    <string name="full_name">Марина Максимова</string>
+    <string name="course">Студент, Группа Б23-191-1з</string>
+    <string name="email">marmaksleo@mail.ru</string>
+    <string name="phone">+7 (951) 192-00-18</string>
+</resources>
